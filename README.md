@@ -13,5 +13,5 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 
 <h2 align="left"> How to reach me </h2>
-    <a href="www.linkedin.com/in/orion-soti-9a3b83270" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="orion-soti-9a3b83270" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/orion-soti-9a3b83270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBk8%2Fxd9XSL26QyQgDU%2FsHg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="orion-soti-9a3b83270" height="30" width="40" /></a>
 
